@@ -1,6 +1,6 @@
 # AWS-Deep-Learning
 
-This project deploys a neural network on AWS SageMaker to detect/predict images within the MNIST fashion database.
+This project deploys a Deep Learning Neural Network on AWS SageMaker to detect/predict images within the MNIST fashion dataset.
 
 Follow along here: 
 
