@@ -4,6 +4,7 @@ This project deploys a Deep Learning Neural Network on AWS SageMaker to detect/p
 
 Follow along on Medium.com: 
 
+-The code is written using Python
 -Feel free to download and run the Jupyter notebook on your AWS instance.
 
 https://ghayathalobaidi.medium.com/deep-learning-on-amazon-web-services-aws-7551b7331b7d
